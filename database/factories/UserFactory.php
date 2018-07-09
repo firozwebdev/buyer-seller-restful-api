@@ -1,6 +1,7 @@
 <?php
 
 use App\User;
+use App\Seller;
 use App\Product;
 use App\Category;
 use App\Transaction;
